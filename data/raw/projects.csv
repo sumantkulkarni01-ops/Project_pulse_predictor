@@ -1,0 +1,6 @@
+project_id,project_name,project_manager,practice,client_name,start_date,planned_end_date,budget_usd,planned_effort_hours,risk_category
+P001,ERP Upgrade,Ravi Kumar,SAP,Client A,2025-01-10,2025-08-30,500000,12000,Medium
+P002,Cloud Migration,Priya N,Cloud,Client B,2025-02-01,2025-10-15,800000,18000,High
+P003,Data Platform,Kiran S,Data,Client C,2025-03-05,2025-11-20,650000,15000,Low
+P004,CRM Modernization,Anita R,Digital,Client D,2025-01-20,2025-09-30,700000,16000,Medium
+P005,AI Support Bot,Suresh M,AI,Client E,2025-02-10,2025-12-15,900000,20000,High
